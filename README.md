@@ -43,5 +43,6 @@ Fibonacci Heap:
 Fibonacci heap is a data structure for priority queue operations, consisting of a collection of heap-ordered trees. It has a better amortized running time than many other priority queue data structures. A Fibonacci heap is a collection of trees satisfying the minimum-heap property, that is, the key of a child is always greater than or equal to the key of the parent. This implies that the minimum key is always at the root of one of the trees.
 
 More information related on Fibonacci Heap: https://en.wikipedia.org/wiki/Fibonacci_heap
+A representation of what I'm trying to do: https://www.tutorialspoint.com/cplusplus-program-to-implement-priority-queue
 
 
